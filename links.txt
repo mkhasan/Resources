@@ -1,0 +1,4 @@
+https://askubuntu.com/questions/1054242/completely-removing-old-nvidia-drivers
+https://linuxconfig.org/how-to-uninstall-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
+
+Tensorflow problem in RTX 20XX series -> https://github.com/tensorflow/tensorflow/issues/24496

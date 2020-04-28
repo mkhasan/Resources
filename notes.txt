@@ -1,0 +1,14 @@
+apt-cache policy cuda
+
+incase of version missmatch betteen nvidia driver version and cuda suggested driver version 
+just uninstall nvidia driver and use cuda to build nvidia driver
+
+In case of using tensorflow 2, use following code to allow gpu growth
+
+from tensorflow.compat.v1 import ConfigProto
+from tensorflow.compat.v1 import InteractiveSession
+
+config = ConfigProto()
+config.gpu_options.allow_growth = True
+session = InteractiveSession(config=config)
+
