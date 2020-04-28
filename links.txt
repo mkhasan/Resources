@@ -1,3 +1,37 @@
+react -> https://www.youtube.com/watch?v=Ke90Tje7VS0&feature=youtu.be
+java script -> https://www.youtube.com/watch?v=W6NZfCO5SIk
+OOP factory concept -> https://dev.to/ryhenness/design-patterns-factory-3eif?fbclid=IwAR05xnszuHzOsW6sjCHtCzeZDZMYjS7oM1bcQ2-AzDR0wTSAwIedxO_ZO4s
+C# for beginner -> https://www.youtube.com/watch?v=gfkTfcpWqAY&t=2597s
+https://stackoverflow.com/questions/40731428/unhandled-exception-error-with-opencv/41073881
+ASP .NET Model View Controller -> https://www.youtube.com/watch?v=E7Voso411Vs
+Xamarin -> https://ebookcentral.proquest.com/lib/kaist/detail.action?docID=1582945>
+c# task -> https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+tensor flow -> https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+std::shared ptr -> https://en.cppreference.com/w/cpp/memory/shared_ptr
+async-await -> https://markheath.net/post/async-antipatterns
+xamarin seuge -> https://docs.microsoft.com/en-us/xamarin/ios/user-interface/storyboards/?tabs=windows
+xamarin widgeds -> 
+	https://forums.xamarin.com/discussion/97205/unable-to-see-title-bar-button-item-in-the-navigation-item-in-my-view-controller
+	https://stackoverflow.com/questions/53178608/xamarin-ios-uibarbuttonitem-added-as-in-recipe-does-not-work-no-error-no-button
+	https://coderwall.com/p/cjuzng/swift-instantiate-a-view-controller-using-its-storyboard-name-in-xcode
+	http://sketchytech.blogspot.com/2012/11/instantiate-view-controller-using.html
+	https://stackoverflow.com/questions/25473370/xamarin-c-sharp-two-uitableviewcells-in-one-uitableview
+	https://www.google.com/search?sxsrf=ALeKk0016JQw82xUz-SgULGDVslLXtrw5Q%3A1585539484491&source=hp&ei=nGmBXq30G8_hwAOq2riQDw&q=how+to+use+tableviewcell+xamarin&oq=how+to+use+tableviewcell+xamarin&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAE6BAgjECc6AggAOgQIABAKOggIABAWEAoQHjoGCAAQDRAKOgQIABANOgYIABAWEB46CAgAEA0QChAeOgYIABANEB46BQgAEM0COggIIRAWEB0QHjoHCCEQChCgAVCwAVjYLmDDMGgBcAB4AIAB4wGIAecdkgEGOC4yMi4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwitsv7tosHoAhXPMHAKHSotDvIQ4dUDCAY&uact=5#kpvalbx=_o2mBXrv7F4fAoASn2pHADA14
+	https://docs.microsoft.com/en-us/dotnet/api/uikit.uiviewcontroller.viewdidlayoutsubviews?view=xamarin-ios-sdk-12
+	https://docs.microsoft.com/en-us/xamarin/ios/user-interface/controls/picker
+swift barbuttonitem -> https://www.tutorialspoint.com/how-to-set-target-and-action-for-uibarbuttonitem-at-runtime
+KIIP -> https://www.socinet.go.kr/soci/main/main.jsp?MENU_TYPE=S_TOP_SY&fbclid=IwAR0diPO1KmsaMuY8DWtxU-MpkOn3PqRF-rQ1uhatVNRF5jb6HyhBEd0-CKI
+GAN -> Hands-On generative adversarial networks with Keras: your guide to implementing next-generation generative adversarial networks
+
+book name -> Hands-On generative adversarial networks with Keras: your guide to implementing next-generation generative adversarial networks
+anaconda -> https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
+GAN -> https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
+Convolution -> http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html
+NN optimization algorithms -> https://ruder.io/optimizing-gradient-descent/ 
+How to disable Nouveau driver -> https://arstech.net/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04/
+How to autometically install nvidia drivers in ubuntu -> https://askubuntu.com/questions/1075674/error-while-trying-to-install-nvidia-drivers
+
+
 https://askubuntu.com/questions/1054242/completely-removing-old-nvidia-drivers
 https://linuxconfig.org/how-to-uninstall-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
 
