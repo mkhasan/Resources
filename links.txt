@@ -36,3 +36,23 @@ https://askubuntu.com/questions/1054242/completely-removing-old-nvidia-drivers
 https://linuxconfig.org/how-to-uninstall-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
 
 Tensorflow problem in RTX 20XX series -> https://github.com/tensorflow/tensorflow/issues/24496
+
+How to install opencv in ubuntu ->
+	https://www.learnopencv.com/install-opencv3-on-ubuntu/
+HOG -> 
+	https://www.learnopencv.com/histogram-of-oriented-gradients/
+
+https://github.com/tobybreckon/python-bow-hog-object-detection
+
+image processing tutorial 
+	-> http://layer0.authentise.com/detecting-circular-shapes-using-contours.html
+	-> http://layer0.authentise.com/how-to-track-objects-with-stationary-background.html
+	-> http://layer0.authentise.com/segment-background-using-computer-vision.html
+				
+learnopencv 
+	-> https://github.com/spmallick/learnopencv
+copyTo in python 
+	-> https://stackoverflow.com/questions/41572887/equivalent-of-copyto-in-python-opencv-bindings
+
+numpy types 
+	-> https://stackoverflow.com/questions/43863748/convert-numpy-array-dtype-valueerror-setting-an-array-element-with-a-sequence
