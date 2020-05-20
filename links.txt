@@ -56,3 +56,7 @@ copyTo in python
 
 numpy types 
 	-> https://stackoverflow.com/questions/43863748/convert-numpy-array-dtype-valueerror-setting-an-array-element-with-a-sequence
+
+video stabilization -> https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/
+https://stats.stackexchange.com/questions/182775/what-is-an-embedding-layer-in-a-neural-network
+http://ext4magic.sourceforge.net/howto_en.html
