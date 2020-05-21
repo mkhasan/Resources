@@ -60,3 +60,8 @@ numpy types
 video stabilization -> https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/
 https://stats.stackexchange.com/questions/182775/what-is-an-embedding-layer-in-a-neural-network
 http://ext4magic.sourceforge.net/howto_en.html
+motion detector -> https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+
+
+
+
