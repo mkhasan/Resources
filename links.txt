@@ -48,7 +48,7 @@ image processing tutorial
 	-> http://layer0.authentise.com/detecting-circular-shapes-using-contours.html
 	-> http://layer0.authentise.com/how-to-track-objects-with-stationary-background.html
 	-> http://layer0.authentise.com/segment-background-using-computer-vision.html
-				
+			
 learnopencv 
 	-> https://github.com/spmallick/learnopencv
 copyTo in python 
@@ -68,7 +68,8 @@ Metropolis-Hastings -> https://stephens999.github.io/fiveMinuteStats/MH-examples
 pixelcnn->https://keras.io/examples/generative/pixelcnn/
 darknet -> https://docs.khadas.com/vim3/HowToInstallDarknet.html
 yolo in keras -> https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
-aelg99.github.io/2017-02-27-Grayscale-PixelCNN-with-Keras/
+https://israelg99.github.io/2017-02-27-Grayscale-PixelCNN-with-Keras/
 
 https://www.tensorflow.org/guide/keras/save_and_serialize?hl=de
 
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
