@@ -73,3 +73,5 @@ https://israelg99.github.io/2017-02-27-Grayscale-PixelCNN-with-Keras/
 https://www.tensorflow.org/guide/keras/save_and_serialize?hl=de
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+https://gist.github.com/Lovesan/ac2434a7e6aa1d5d0d0f6ee32af3d8ad
