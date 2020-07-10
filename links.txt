@@ -84,4 +84,4 @@ Seugu home page -> http://www.seogu.go.kr/kor/main.do
 
 RCNN -> https://towardsdatascience.com/faster-r-cnn-for-object-detection-a-technical-summary-474c5b857b46
 
-
+more on R-CNN -> https://towardsdatascience.com/r-cnn-3a9beddfd55a
