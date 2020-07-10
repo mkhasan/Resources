@@ -82,4 +82,6 @@ YOLO how it works -> https://medium.com/analytics-vidhya/yolo-v3-theory-explaine
 
 Seugu home page -> http://www.seogu.go.kr/kor/main.do
 
+RCNN -> https://towardsdatascience.com/faster-r-cnn-for-object-detection-a-technical-summary-474c5b857b46
+
 
