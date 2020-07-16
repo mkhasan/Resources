@@ -87,3 +87,7 @@ RCNN -> https://towardsdatascience.com/faster-r-cnn-for-object-detection-a-techn
 more on R-CNN -> https://towardsdatascience.com/r-cnn-3a9beddfd55a
 
 fast R-CNN -> https://towardsdatascience.com/part-2-fast-r-cnn-object-detection-7303e1988464
+
+https://deepsense.ai/playing-atari-with-deep-reinforcement-learning-deepsense-ais-approach/
+
+R-CNN bounding box regr -> https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
