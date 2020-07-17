@@ -91,3 +91,5 @@ fast R-CNN -> https://towardsdatascience.com/part-2-fast-r-cnn-object-detection-
 https://deepsense.ai/playing-atari-with-deep-reinforcement-learning-deepsense-ais-approach/
 
 R-CNN bounding box regr -> https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
+
+Image segmentation -> https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/
