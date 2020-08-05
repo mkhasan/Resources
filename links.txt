@@ -94,3 +94,5 @@ R-CNN bounding box regr -> https://lilianweng.github.io/lil-log/2017/12/31/objec
 
 Image segmentation -> https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/
 	-> https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html	
+
+virtual env for python -> https://www.tensorflow.org/install/pip
