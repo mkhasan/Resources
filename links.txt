@@ -98,3 +98,5 @@ Image segmentation -> https://www.analyticsvidhya.com/blog/2019/02/tutorial-sema
 virtual env for python -> https://www.tensorflow.org/install/pip
 
 KIIP test -> https://www.kiiptest.org/soci-net.do 
+
+yolo v3 opencv cpp -> https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/ 
