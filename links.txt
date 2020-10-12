@@ -104,3 +104,7 @@ yolo v3 opencv cpp -> https://www.learnopencv.com/deep-learning-based-object-det
 statefull RNN -> http://philipperemy.github.io/keras-stateful-lstm/
 
 virtual function -> http://blog.httrack.com/blog/2014/05/09/a-basic-glance-at-the-virtual-table/
+
+keras to cpp -> http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
+
+how to build gcc from source -> https://linuxhostsupport.com/blog/how-to-install-gcc-on-ubuntu-18-04/
