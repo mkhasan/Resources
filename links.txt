@@ -108,3 +108,9 @@ virtual function -> http://blog.httrack.com/blog/2014/05/09/a-basic-glance-at-th
 keras to cpp -> http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
 
 how to build gcc from source -> https://linuxhostsupport.com/blog/how-to-install-gcc-on-ubuntu-18-04/
+
+install cuda -> https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130
+
+tensorflow cpp batch processing -> https://github.com/tensorflow/tensorflow/issues/19909
+
+tensorflow cpp accessing individual element of a tensor -> https://stackoverflow.com/questions/50498561/how-to-access-tensorflowtensor-c
