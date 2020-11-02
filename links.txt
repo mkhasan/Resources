@@ -114,3 +114,9 @@ install cuda -> https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-0
 tensorflow cpp batch processing -> https://github.com/tensorflow/tensorflow/issues/19909
 
 tensorflow cpp accessing individual element of a tensor -> https://stackoverflow.com/questions/50498561/how-to-access-tensorflowtensor-c
+
+copy data between tensorflow and opencv mat -> https://stackoverflow.com/questions/39379747/import-opencv-mat-into-c-tensorflow-without-copying
+
+tensorflow doc -> http://tensorflow.biotecan.com/C++/C++_1.8/tensorflow.google.cn/api_docs/cc/class/tensorflow/ops/where.html
+
+combining two graphs -> https://stackoverflow.com/questions/49490262/combining-graphs-is-there-a-tensorflow-import-graph-def-equivalent-for-c
