@@ -120,3 +120,7 @@ copy data between tensorflow and opencv mat -> https://stackoverflow.com/questio
 tensorflow doc -> http://tensorflow.biotecan.com/C++/C++_1.8/tensorflow.google.cn/api_docs/cc/class/tensorflow/ops/where.html
 
 combining two graphs -> https://stackoverflow.com/questions/49490262/combining-graphs-is-there-a-tensorflow-import-graph-def-equivalent-for-c
+
+Hyunoon'a gmail account -> aryonbe@gmail.com
+
+ 
