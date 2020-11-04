@@ -123,4 +123,4 @@ combining two graphs -> https://stackoverflow.com/questions/49490262/combining-g
 
 Hyunoon'a gmail account -> aryonbe@gmail.com
 
- 
+Spectrograms, MFCCs -> https://timsainburg.com/python-mel-compression-inversion.html
