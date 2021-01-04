@@ -43,7 +43,9 @@ How to install tensorflow from source
 	    export LD_LIBRARY_PATH=/usr/local/cuda-11.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 	fi
 
-3. cd tensorflow -> ./configure
-4. bazel build [--config=option] //tensorflow/tools/pip_package:build_pip_package
+3. sudo cp /usr/include/cudnn*.h /usr/local/cuda-11.0/include
+
+4. cd tensorflow -> ./configure
+5. bazel build [--config=option] //tensorflow/tools/pip_package:build_pip_package
 
 
