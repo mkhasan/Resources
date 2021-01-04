@@ -23,3 +23,27 @@ edit eclipse.ini
 -vmargs
 -Dosgi.requiredJavaVersion=1.8
 
+How to install tensorflow from source 
+1. Use https://www.tensorflow.org/install/gpu to install
+	CUDA
+	CUDNN
+	TensorRT
+
+2. Update ~/.bashrc:
+	export PATH=$PATH:/usr/local/cuda-11.0/bin
+	export LD_LIBRARY_PATH=/usr/local/cuda-11.0/targets/x86_64-linux/lib
+
+
+	export CUDNN_INSTALL_PATH=/usr/local/cuda-11.0
+	export CUDA_HOME=/usr/local/cuda-11.0
+
+	# set PATH for cuda 11.0 installation
+	if [ -d "/usr/local/cuda-11.0/bin/" ]; then
+	    export PATH=/usr/local/cuda-11.0/bin${PATH:+:${PATH}}
+	    export LD_LIBRARY_PATH=/usr/local/cuda-11.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+	fi
+
+3. cd tensorflow -> ./configure
+4. bazel build [--config=option] //tensorflow/tools/pip_package:build_pip_package
+
+

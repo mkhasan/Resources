@@ -125,3 +125,6 @@ Hyunoon'a gmail account -> aryonbe@gmail.com
 
 Spectrograms, MFCCs -> https://timsainburg.com/python-mel-compression-inversion.html
 How to build opencv with cuda in ubnut 20.04 -> https://cuda-chen.github.io/image%20processing/programming/2020/02/22/build-opencv-dnn-module-with-nvidia-gpu-support-on-ubuntu-1804.html
+
+install tensorflow gpu -> https://www.tensorflow.org/install/gpu
+
