@@ -128,3 +128,4 @@ How to build opencv with cuda in ubnut 20.04 -> https://cuda-chen.github.io/imag
 
 install tensorflow gpu -> https://www.tensorflow.org/install/gpu
 
+certificates from kaist -> http://kaist.certpia.com/default.asp
