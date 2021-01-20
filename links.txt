@@ -129,3 +129,7 @@ How to build opencv with cuda in ubnut 20.04 -> https://cuda-chen.github.io/imag
 install tensorflow gpu -> https://www.tensorflow.org/install/gpu
 
 certificates from kaist -> http://kaist.certpia.com/default.asp
+
+stationary process -> https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:~:text=Intuitively%2C%20a%20random%20process%20%7BX,%2Ct%2B%CE%94%E2%88%88J.
+
+1x1 CNN -> https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578#:~:text=Introduced%20first%20in%20a%20paper,channels%20while%20introducing%20non%2Dlinearity.
