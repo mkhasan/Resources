@@ -46,6 +46,8 @@ How to install tensorflow from source
 3. sudo cp /usr/include/cudnn*.h /usr/local/cuda-11.0/include
 
 4. cd tensorflow -> ./configure
-5. bazel build [--config=option] //tensorflow/tools/pip_package:build_pip_package
+5. bazel build [--config=option] //tensorflow/tools/pip_package:build_pip_package*** 
+
+*** printer setup issue -> go to properties. in output size combo box change it to A4. 
 
 

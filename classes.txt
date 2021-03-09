@@ -1,0 +1,7 @@
+bicycle
+truck
+dog
+
+
+
+
