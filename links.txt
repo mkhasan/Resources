@@ -138,3 +138,5 @@ stationary process -> https://www.probabilitycourse.com/chapter10/10_1_4_station
 1x1 CNN -> https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578#:~:text=Introduced%20first%20in%20a%20paper,channels%20while%20introducing%20non%2Dlinearity.
 
 online issue of kaist certificates -> http://kaist.certpia.com/default.asp
+
+drivers site -> https://www.efine.go.kr/main/main.do
