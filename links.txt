@@ -146,3 +146,6 @@ drivers site -> https://www.efine.go.kr/main/main.do
 relationship btwn traffic law violation and F5 -> https://m.blog.naver.com/imin2uk/221823135372?fbclid=IwAR2Ssud34zMTIsVZ9rj5FEPMzQUrIpR1O9KqPijI0VCkmZkA-_NYj0ujQJc
 
 tensorflow windows 10 -> https://medium.com/vitrox-publication/deep-learning-frameworks-tensorflow-build-from-source-on-windows-python-c-cpu-gpu-d3aa4d0772d8
+
+js tutorial -> https://www.freecodecamp.org/news/async-await-javascript-tutorial/
+
