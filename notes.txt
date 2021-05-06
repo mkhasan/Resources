@@ -50,4 +50,6 @@ How to install tensorflow from source
 
 *** printer setup issue -> go to properties. in output size combo box change it to A4. 
 
-
+Creating pip package for TensorFlow with GPU support results in 0 byte simple_console_for_windows.zip 
+-> Building the pip package succeeded for me after including the --define=no_tensorflow_py_deps=true.
+tensorflow from src in win 10 -> use python 3.6 tf branch 2.4
