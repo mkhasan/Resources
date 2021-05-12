@@ -53,3 +53,39 @@ How to install tensorflow from source
 Creating pip package for TensorFlow with GPU support results in 0 byte simple_console_for_windows.zip 
 -> Building the pip package succeeded for me after including the --define=no_tensorflow_py_deps=true.
 tensorflow from src in win 10 -> use python 3.6 tf branch 2.4
+
+
+How to move / and /boot to another partition
+dd if=/dev/sda7 of=/dev/sdb7
+or
+sudo cp -afv /path/to/source/* /path/to/destination
+
+use boot-cd to boot the system
+sudo mkdir /media/root
+sudo mount /dev/sdb7 /media/root
+sudo mount /dev/ada3 /media/root/boot
+
+sudo mount -B /proc /media/root/proc
+sudo mount -B /dev /media/root/dev
+sudo mount -B /sys /media/root/sys
+
+sudo chroot /media/root
+sudo update-grub
+
+suppose sdb4 our target boot
+sudo mount /dev/sdb4 new_bo0t
+sudo cp -afv /boot/* new_boot
+sudo blkid /dev/sdb4
+
+put the uuid into /etc/fstab
+updte-grub
+
+
+
+
+
+
+
+
+
+
