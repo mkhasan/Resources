@@ -149,3 +149,5 @@ tensorflow windows 10 -> https://medium.com/vitrox-publication/deep-learning-fra
 
 js tutorial -> https://www.freecodecamp.org/news/async-await-javascript-tutorial/
 
+stream webcam to java server -> https://www.youtube.com/watch?v=qUzqFO-ewFY&t=234s
+
