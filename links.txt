@@ -77,7 +77,7 @@ https://www.tensorflow.org/guide/keras/save_and_serialize?hl=de
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
-https://gist.github.com/Lovesan/ac2434a7e6aa1d5d0d0f6ee32af3d8ad
+ffmpeg for win -> https://gist.github.com/Lovesan/ac2434a7e6aa1d5d0d0f6ee32af3d8ad
 
 Corona Daejeon -> https://www.daejeon.go.kr/corona19/index.do?menuId=0011&pageIndex=1&ntatcSeq=1342660955&fbclid=IwAR1AJ58Mb_6ut5__Bl6mRcZqmQFo-GWJ334xAl61Q34ZfKEoWHP10BETahQ
 
