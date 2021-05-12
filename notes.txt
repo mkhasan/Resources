@@ -56,9 +56,15 @@ tensorflow from src in win 10 -> use python 3.6 tf branch 2.4
 
 
 How to move / and /boot to another partition
+
 dd if=/dev/sda7 of=/dev/sdb7
-or
+
+or 
+/*
 sudo cp -afv /path/to/source/* /path/to/destination
+sudo blkid /dev/sdb7
+put uuid into /etc/fstab for /
+*/
 
 use boot-cd to boot the system
 sudo mkdir /media/root
@@ -77,7 +83,7 @@ sudo mount /dev/sdb4 new_bo0t
 sudo cp -afv /boot/* new_boot
 sudo blkid /dev/sdb4
 
-put the uuid into /etc/fstab
+put the uuid into /etc/fstab for /boot
 updte-grub
 
 
