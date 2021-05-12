@@ -63,7 +63,7 @@ sudo cp -afv /path/to/source/* /path/to/destination
 use boot-cd to boot the system
 sudo mkdir /media/root
 sudo mount /dev/sdb7 /media/root
-sudo mount /dev/ada3 /media/root/boot
+sudo mount /dev/ada4 /media/root/boot
 
 sudo mount -B /proc /media/root/proc
 sudo mount -B /dev /media/root/dev
