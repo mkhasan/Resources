@@ -86,7 +86,12 @@ sudo blkid /dev/sdb4
 put the uuid into /etc/fstab for /boot
 updte-grub
 
+creating maven project in eclipe give error like: 
+ 
+An internal error occurred during: "Download sources and javadoc".
+clientBuilder.sslSocketFactory(SSLSocketFactory) not supported on JDK 9+
 
+Even when jdk1.8.0_291 is used...jdk1.8.0_202 solves this issue
 
 
 
