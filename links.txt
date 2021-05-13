@@ -151,3 +151,5 @@ js tutorial -> https://www.freecodecamp.org/news/async-await-javascript-tutorial
 
 stream webcam to java server -> https://www.youtube.com/watch?v=qUzqFO-ewFY&t=234s
 
+Servlet and JSP Tutorial -> https://www.youtube.com/watch?v=9iHKCnxUWqQ&t=270s
+
