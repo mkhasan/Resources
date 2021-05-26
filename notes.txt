@@ -93,7 +93,7 @@ clientBuilder.sslSocketFactory(SSLSocketFactory) not supported on JDK 9+
 
 Even when jdk1.8.0_291 is used...jdk1.8.0_202 solves this issue
 
-
+minwon.go.kr -> id loging -> oigug-in service -> songbu 24 barugagi -> oigug-in sinsong ganung service bogi -> 
 
 
 
