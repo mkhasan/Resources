@@ -153,3 +153,4 @@ stream webcam to java server -> https://www.youtube.com/watch?v=qUzqFO-ewFY&t=23
 
 Servlet and JSP Tutorial -> https://www.youtube.com/watch?v=9iHKCnxUWqQ&t=270s
 
+bd police clearence -> http://pcc.police.gov.bd:8080/ords/f?p=500%3A1&fbclid=IwAR3pqQbxmLdAhmCT-NmhJyka4tR1SICC0aQBSbNm1E0PZQHKGyihUtK6iaY
